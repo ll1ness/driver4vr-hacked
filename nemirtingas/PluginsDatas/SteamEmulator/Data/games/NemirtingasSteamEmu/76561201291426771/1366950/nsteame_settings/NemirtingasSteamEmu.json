@@ -1,0 +1,21 @@
+{
+  "appid": 1366950,
+  "beta_name": "",
+  "cloud_save": true,
+  "disable_online_networking": false,
+  "dlcs": {},
+  "enable_lan": false,
+  "enable_overlay": false,
+  "installed_depots": {},
+  "language": "english",
+  "languages": [
+    "english"
+  ],
+  "log_level": "off",
+  "savepath": "C:\\Users\\Admin\\Downloads\\Done\\Driver4VR.8013868\\nemirtingas launcher 05-02-2022\\PluginsDatas\\SteamEmulator\\Data\\games\\",
+  "signaling_servers": [],
+  "steamid": 76561201291426771,
+  "unlock_dlcs": true,
+  "use_vr": false,
+  "username": "DefaultName"
+}

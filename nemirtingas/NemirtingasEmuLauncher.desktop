@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Nemirtingas Emu Launcher
+Comment=
+Exec=bash -c 'export DOTNET_ROOT=/usr/share/dotnet && sed "s|^Icon=.*|Icon=$(dirname "$0")/MainIcon.png|" "$(dirname "$0")/NemirtingasEmuLauncher.desktop" >/tmp/nel_tyutyutyu.desktop && chmod +x /tmp/nel_tyutyutyu.desktop && mv /tmp/nel_tyutyutyu.desktop "$(dirname "$0")/NemirtingasEmuLauncher.desktop" && "$(dirname "$0")/NemirtingasEmuLauncher.linux" || rm -f /tmp/nel_tyutyutyu.desktop' %k
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=
+Keywords=Games

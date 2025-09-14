@@ -1,0 +1,1788 @@
+2022-02-24 04:09:25: Initializing Driver4VR application ver:  5.7.7.3
+2022-02-24 04:09:29: Initialize data structures...
+2022-02-24 04:09:30: Initialize data structures... done.
+2022-02-24 04:09:31: Initializing UI: step 2.1.1
+2022-02-24 04:09:31: Reading application settings...
+2022-02-24 04:09:32: Reading application settings... done.
+2022-02-24 04:09:32: Initializing UI: step 2.1.2
+2022-02-24 04:09:32: Initializing UI: step 2.1.3
+2022-02-24 04:09:32: Initializing UI: step 2.1.4
+2022-02-24 04:09:32: Initializing UI: step 2.1.5
+2022-02-24 04:09:32: Initializing UI: step 2.1.6
+2022-02-24 04:09:32: Initializing UI: step 2.1.7
+2022-02-24 04:09:32: Initializing UI: step 2.1.8
+2022-02-24 04:09:32: Initializing UI: step 2.1.9
+2022-02-24 04:09:32: Initializing UI: step 2.1.10
+2022-02-24 04:09:32: Initializing UI.TrackerList: step 1
+2022-02-24 04:09:34: Initializing UI.TrackerList: step 2
+2022-02-24 04:09:35: Initializing UI.TrackerList: step 3
+2022-02-24 04:09:35: Initializing UI.TrackerList: step 99
+2022-02-24 04:09:35: Initializing UI: step 2.1.11
+2022-02-24 04:09:35: Initializing UI: step 2.1.12
+2022-02-24 04:09:35: Initializing UI: step 2.1.13
+2022-02-24 04:09:35: Initializing UI: step 2.1.14
+2022-02-24 04:09:35: Initializing UI: step 2.1.15
+2022-02-24 04:09:35: Initializing UI: step 2.1.16
+2022-02-24 04:09:35: Initializing UI: step 2.1.17
+2022-02-24 04:09:35: Initializing UI: step 2.1.18
+2022-02-24 04:09:35: Initializing UI: step 2.1.19
+2022-02-24 04:09:35: Initializing UI: step 2.1.20
+2022-02-24 04:09:35: Initializing UI: step 2.1.21
+2022-02-24 04:09:35: Initializing UI: step 2.1.22
+2022-02-24 04:09:35: Initializing UI: step 2.1.23
+2022-02-24 04:09:35: Initializing UI: step 2.1.24
+2022-02-24 04:09:35: Initializing UI: step 2.1.25
+2022-02-24 04:09:35: Initializing UI: step 2.1.26
+2022-02-24 04:09:35: Initializing UI: step 2.1.27
+2022-02-24 04:09:35: Initializing UI: step 2.1.28
+2022-02-24 04:09:35: Initializing UI: step 2.1.29
+2022-02-24 04:09:35: Initializing UI: step 2.1.30
+2022-02-24 04:09:35: Initializing UI: step 2.1.99
+2022-02-24 04:09:39: Loading main window.
+2022-02-24 04:09:39: Initialisation...
+2022-02-24 04:09:40: Initialisation - Start...
+2022-02-24 04:09:40: Initialisation - Checking driver installation...
+2022-02-24 04:09:41: Unable to verify driver installation: Can't find 'openvrpaths.vrpath' in 'C:\Users\Admin\AppData\Local\openvr\openvrpaths.vrpath'.
+2022-02-24 04:09:41: Initialisation - Checking driver installation: True
+2022-02-24 04:09:41: Initialisation - Authenticating...
+2022-02-24 04:09:42: Initialisation - Authenticating: True
+2022-02-24 04:09:42: Initialisation - Authenticating: True, 0, 
+2022-02-24 04:09:42: Initialisation - loading devices...
+2022-02-24 04:09:42: Connecting to SteamVR - start
+2022-02-24 04:09:42: Connecting to SteamVR - returned: Init_PathRegistryNotFound
+2022-02-24 04:09:42: Connecting to SteamVR - complete
+2022-02-24 04:09:42: Unable to connect to SteamVR: Registry not found. Have you installed SteamVR?
+2022-02-24 04:09:42: Connection status chanced to: Error: Unable to connect to SteamVR:
+Registry not found. Have you installed SteamVR?
+2022-02-24 04:09:42: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Registry not found. Have you installed SteamVR?
+2022-02-24 04:09:42: Initialisation... complted.
+2022-02-24 04:09:43: Finalising...
+2022-02-24 04:09:43: Finalising... completed.
+2022-02-24 04:09:47: Closing application...
+2022-02-24 04:09:47: Creating Wii Connection...
+2022-02-24 04:09:48: Creating Wii Connection... completed with success.
+2022-02-24 04:09:50: Closing application... completed.
+2022-02-24 04:09:50: Shutdown of Driver4VR application has been completed.
+2025-09-14 13:00:29: Initializing Driver4VR application ver:  5.7.7.3
+2025-09-14 13:00:29: Initialize data structures...
+2025-09-14 13:00:29: Initialize data structures... done.
+2025-09-14 13:00:29: Initializing UI: step 2.1.1
+2025-09-14 13:00:29: Reading application settings...
+2025-09-14 13:00:29: Reading application settings... done.
+2025-09-14 13:00:29: Initializing UI: step 2.1.2
+2025-09-14 13:00:29: Initializing UI: step 2.1.3
+2025-09-14 13:00:29: Initializing UI: step 2.1.4
+2025-09-14 13:00:29: Initializing UI: step 2.1.5
+2025-09-14 13:00:29: Initializing UI: step 2.1.6
+2025-09-14 13:00:29: Initializing UI: step 2.1.7
+2025-09-14 13:00:29: Initializing UI: step 2.1.8
+2025-09-14 13:00:29: Initializing UI: step 2.1.9
+2025-09-14 13:00:29: Initializing UI: step 2.1.10
+2025-09-14 13:00:29: Initializing UI.TrackerList: step 1
+2025-09-14 13:00:31: Initializing UI.TrackerList: step 2
+2025-09-14 13:00:31: Initializing UI.TrackerList: step 3
+2025-09-14 13:00:31: Initializing UI.TrackerList: step 99
+2025-09-14 13:00:31: Initializing UI: step 2.1.11
+2025-09-14 13:00:31: Initializing UI: step 2.1.12
+2025-09-14 13:00:31: Initializing UI: step 2.1.13
+2025-09-14 13:00:31: Initializing UI: step 2.1.14
+2025-09-14 13:00:31: Initializing UI: step 2.1.15
+2025-09-14 13:00:31: Initializing UI: step 2.1.16
+2025-09-14 13:00:31: Initializing UI: step 2.1.17
+2025-09-14 13:00:31: Initializing UI: step 2.1.18
+2025-09-14 13:00:31: Initializing UI: step 2.1.19
+2025-09-14 13:00:31: Initializing UI: step 2.1.20
+2025-09-14 13:00:31: Initializing UI: step 2.1.21
+2025-09-14 13:00:31: Initializing UI: step 2.1.22
+2025-09-14 13:00:31: Initializing UI: step 2.1.23
+2025-09-14 13:00:31: Initializing UI: step 2.1.24
+2025-09-14 13:00:31: Initializing UI: step 2.1.25
+2025-09-14 13:00:31: Initializing UI: step 2.1.26
+2025-09-14 13:00:31: Initializing UI: step 2.1.27
+2025-09-14 13:00:31: Initializing UI: step 2.1.28
+2025-09-14 13:00:31: Initializing UI: step 2.1.29
+2025-09-14 13:00:31: Initializing UI: step 2.1.30
+2025-09-14 13:00:31: Initializing UI: step 2.1.99
+2025-09-14 13:00:31: Loading main window.
+2025-09-14 13:00:31: Initialisation...
+2025-09-14 13:00:31: Initialisation - Start...
+2025-09-14 13:00:31: Initialisation - Checking driver installation...
+2025-09-14 13:00:32: Driver will be reinstlled with path: C:\Users\majez\Desktop\drv4vr\steamapps\common\Driver4VR\lib\drivers\driver4vr
+2025-09-14 13:00:37: Initialisation - Checking driver installation: False
+2025-09-14 13:00:37: Connection status chanced to: SteamVR driver for Driver4VR has been registered
+Please restart SteamVR.
+2025-09-14 13:00:37: Initialisation - not completed at driver initialisation
+2025-09-14 13:00:37: Initialisation... complted.
+2025-09-14 13:00:37: Finalising...
+2025-09-14 13:00:42: Closing application...
+2025-09-14 13:00:42: Creating Wii Connection...
+2025-09-14 13:00:42: Creating Wii Connection... completed with success.
+2025-09-14 13:00:43: Closing application... completed.
+2025-09-14 13:00:43: Shutdown of Driver4VR application has been completed.
+2025-09-14 13:01:18: Initializing Driver4VR application ver:  5.7.7.3
+2025-09-14 13:01:18: Initialize data structures...
+2025-09-14 13:01:19: Initialize data structures... done.
+2025-09-14 13:01:19: Initializing UI: step 2.1.1
+2025-09-14 13:01:19: Reading application settings...
+2025-09-14 13:01:19: Reading application settings... done.
+2025-09-14 13:01:19: Initializing UI: step 2.1.2
+2025-09-14 13:01:19: Initializing UI: step 2.1.3
+2025-09-14 13:01:19: Initializing UI: step 2.1.4
+2025-09-14 13:01:19: Initializing UI: step 2.1.5
+2025-09-14 13:01:19: Initializing UI: step 2.1.6
+2025-09-14 13:01:19: Initializing UI: step 2.1.7
+2025-09-14 13:01:19: Initializing UI: step 2.1.8
+2025-09-14 13:01:19: Initializing UI: step 2.1.9
+2025-09-14 13:01:19: Initializing UI: step 2.1.10
+2025-09-14 13:01:19: Initializing UI.TrackerList: step 1
+2025-09-14 13:01:19: Initializing UI.TrackerList: step 2
+2025-09-14 13:01:19: Initializing UI.TrackerList: step 3
+2025-09-14 13:01:19: Initializing UI.TrackerList: step 99
+2025-09-14 13:01:19: Initializing UI: step 2.1.11
+2025-09-14 13:01:19: Initializing UI: step 2.1.12
+2025-09-14 13:01:19: Initializing UI: step 2.1.13
+2025-09-14 13:01:19: Initializing UI: step 2.1.14
+2025-09-14 13:01:19: Initializing UI: step 2.1.15
+2025-09-14 13:01:19: Initializing UI: step 2.1.16
+2025-09-14 13:01:19: Initializing UI: step 2.1.17
+2025-09-14 13:01:19: Initializing UI: step 2.1.18
+2025-09-14 13:01:19: Initializing UI: step 2.1.19
+2025-09-14 13:01:19: Initializing UI: step 2.1.20
+2025-09-14 13:01:19: Initializing UI: step 2.1.21
+2025-09-14 13:01:19: Initializing UI: step 2.1.22
+2025-09-14 13:01:19: Initializing UI: step 2.1.23
+2025-09-14 13:01:19: Initializing UI: step 2.1.24
+2025-09-14 13:01:19: Initializing UI: step 2.1.25
+2025-09-14 13:01:19: Initializing UI: step 2.1.26
+2025-09-14 13:01:19: Initializing UI: step 2.1.27
+2025-09-14 13:01:19: Initializing UI: step 2.1.28
+2025-09-14 13:01:19: Initializing UI: step 2.1.29
+2025-09-14 13:01:19: Initializing UI: step 2.1.30
+2025-09-14 13:01:19: Initializing UI: step 2.1.99
+2025-09-14 13:01:19: Loading main window.
+2025-09-14 13:01:19: Initialisation...
+2025-09-14 13:01:19: Initialisation - Start...
+2025-09-14 13:01:19: Initialisation - Checking driver installation...
+2025-09-14 13:01:20: Initialisation - Checking driver installation: True
+2025-09-14 13:01:20: Initialisation - Authenticating...
+2025-09-14 13:01:20: Unable to read statistic: stat_reset_stats
+2025-09-14 13:01:20: Initialisation - Authenticating: True
+2025-09-14 13:01:20: Initialisation - Authenticating: True, 0, 
+2025-09-14 13:01:20: Initialisation - loading devices...
+2025-09-14 13:01:20: Connecting to SteamVR - start
+2025-09-14 13:01:20: Connecting to SteamVR - returned: Init_HmdNotFound
+2025-09-14 13:01:20: VRPath reg output: 
+
+2025-09-14 13:01:20: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	[ NO DRIVER NAME FOUND ] : C:\CRVR\app\lib\Driver\vridge
+	ivry : D:\SteamLibrary\steamapps\common\iVRy
+	driver4vr : C:\Users\majez\Desktop\drv4vr\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2025-09-14 13:01:20: Connecting to SteamVR - complete
+2025-09-14 13:01:20: Unable to connect to SteamVR: Headset was not found.
+2025-09-14 13:01:20: Connection status chanced to: Unable to connect to SteamVR:
+Headset was not found.
+2025-09-14 13:01:20: Initialisation - Failed to connect to SteamVR: Unable to connect to SteamVR:
+Headset was not found.
+2025-09-14 13:01:20: Initialisation... complted.
+2025-09-14 13:01:20: Finalising...
+2025-09-14 13:01:20: Finalising... completed.
+2025-09-14 13:01:33: Closing application...
+2025-09-14 13:01:33: Creating Wii Connection...
+2025-09-14 13:01:33: Creating Wii Connection... completed with success.
+2025-09-14 13:01:33: Closing application... completed.
+2025-09-14 13:01:33: Shutdown of Driver4VR application has been completed.
+2025-09-14 13:01:48: Initializing Driver4VR application ver:  5.7.7.3
+2025-09-14 13:01:50: Initialize data structures...
+2025-09-14 13:01:51: Initialize data structures... done.
+2025-09-14 13:01:51: Initializing UI: step 2.1.1
+2025-09-14 13:01:51: Reading application settings...
+2025-09-14 13:01:51: Reading application settings... done.
+2025-09-14 13:01:51: Initializing UI: step 2.1.2
+2025-09-14 13:01:51: Initializing UI: step 2.1.3
+2025-09-14 13:01:51: Initializing UI: step 2.1.4
+2025-09-14 13:01:51: Initializing UI: step 2.1.5
+2025-09-14 13:01:51: Initializing UI: step 2.1.6
+2025-09-14 13:01:51: Initializing UI: step 2.1.7
+2025-09-14 13:01:51: Initializing UI: step 2.1.8
+2025-09-14 13:01:51: Initializing UI: step 2.1.9
+2025-09-14 13:01:51: Initializing UI: step 2.1.10
+2025-09-14 13:01:51: Initializing UI.TrackerList: step 1
+2025-09-14 13:01:51: Initializing UI.TrackerList: step 2
+2025-09-14 13:01:52: Initializing UI.TrackerList: step 3
+2025-09-14 13:01:52: Initializing UI.TrackerList: step 99
+2025-09-14 13:01:52: Initializing UI: step 2.1.11
+2025-09-14 13:01:52: Initializing UI: step 2.1.12
+2025-09-14 13:01:52: Initializing UI: step 2.1.13
+2025-09-14 13:01:52: Initializing UI: step 2.1.14
+2025-09-14 13:01:52: Initializing UI: step 2.1.15
+2025-09-14 13:01:52: Initializing UI: step 2.1.16
+2025-09-14 13:01:52: Initializing UI: step 2.1.17
+2025-09-14 13:01:52: Initializing UI: step 2.1.18
+2025-09-14 13:01:52: Initializing UI: step 2.1.19
+2025-09-14 13:01:52: Initializing UI: step 2.1.20
+2025-09-14 13:01:52: Initializing UI: step 2.1.21
+2025-09-14 13:01:52: Initializing UI: step 2.1.22
+2025-09-14 13:01:52: Initializing UI: step 2.1.23
+2025-09-14 13:01:52: Initializing UI: step 2.1.24
+2025-09-14 13:01:52: Initializing UI: step 2.1.25
+2025-09-14 13:01:52: Initializing UI: step 2.1.26
+2025-09-14 13:01:52: Initializing UI: step 2.1.27
+2025-09-14 13:01:52: Initializing UI: step 2.1.28
+2025-09-14 13:01:52: Initializing UI: step 2.1.29
+2025-09-14 13:01:52: Initializing UI: step 2.1.30
+2025-09-14 13:01:52: Initializing UI: step 2.1.99
+2025-09-14 13:01:53: Loading main window.
+2025-09-14 13:01:53: Initialisation...
+2025-09-14 13:01:53: Initialisation - Start...
+2025-09-14 13:01:53: Initialisation - Checking driver installation...
+2025-09-14 13:01:55: Initialisation - Checking driver installation: True
+2025-09-14 13:01:55: Initialisation - Authenticating...
+2025-09-14 13:01:55: Unable to read statistic: stat_reset_stats
+2025-09-14 13:01:55: Initialisation - Authenticating: True
+2025-09-14 13:01:55: Initialisation - Authenticating: True, 0, 
+2025-09-14 13:01:55: Initialisation - loading devices...
+2025-09-14 13:01:55: Connecting to SteamVR - start
+2025-09-14 13:01:56: Connecting to SteamVR - returned: None
+2025-09-14 13:01:57: VRPath reg output: 
+
+2025-09-14 13:01:57: Runtime path = C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+Config path = C:\Program Files (x86)\Steam\config
+Log path = C:\Program Files (x86)\Steam\logs
+External Drivers:
+	[ NO DRIVER NAME FOUND ] : C:\CRVR\app\lib\Driver\vridge
+	ivry : D:\SteamLibrary\steamapps\common\iVRy
+	driver4vr : C:\Users\majez\Desktop\drv4vr\steamapps\common\Driver4VR\lib\drivers\driver4vr
+
+2025-09-14 13:01:57: Connecting to SteamVR - complete
+2025-09-14 13:01:57: Detected iVRy Headset.
+2025-09-14 13:01:57: Initialisation - loading devices - Done.
+2025-09-14 13:01:57: Initialisation - loading configuration...
+2025-09-14 13:01:57: Initialisation - loading configuration - Done.
+2025-09-14 13:01:57: Initialisation - starting server...
+2025-09-14 13:01:57: Creating communication thread...
+2025-09-14 13:01:57: Creating communication done...
+2025-09-14 13:01:57: Initialisation - starting server - Done.
+2025-09-14 13:01:57: Initialisation - reload enabled async.
+2025-09-14 13:01:57: Initialize communication thread.
+2025-09-14 13:01:57: Connection status chanced to: Press 'Start Driver4VR'
+2025-09-14 13:01:57: Initialisation - Done
+2025-09-14 13:01:57: Initialisation... complted.
+2025-09-14 13:01:57: Finalising...
+2025-09-14 13:01:57: Communication thread test start - #1
+2025-09-14 13:01:57: Communication thread test end  - #1
+2025-09-14 13:01:57: Communication thread test start - #2
+2025-09-14 13:01:57: Communication thread test end  - #2
+2025-09-14 13:01:57: Communication thread test start - #3
+2025-09-14 13:01:57: Communication thread test end  - #3
+2025-09-14 13:01:57: Communication thread test start - #4
+2025-09-14 13:01:57: Communication thread test end  - #4
+2025-09-14 13:01:57: Communication thread test start - #5
+2025-09-14 13:01:57: Communication thread test end  - #5
+2025-09-14 13:01:59: Status trace: stopped
+2025-09-14 13:02:02: Status trace: stopped
+2025-09-14 13:02:05: Status trace: stopped
+2025-09-14 13:02:08: Status trace: stopped
+2025-09-14 13:02:10: Enumeration of devices starting... with 0
+2025-09-14 13:02:10: PS Move Service not required... skipping.
+2025-09-14 13:02:10: Enumeration of devices starting completed with 0 total.
+2025-09-14 13:02:11: Status trace: stopped
+2025-09-14 13:02:14: Status trace: stopped
+2025-09-14 13:02:17: Status trace: stopped
+2025-09-14 13:02:20: Status trace: stopped
+2025-09-14 13:02:23: Status trace: stopped
+2025-09-14 13:02:24: Enumeration of devices starting... with 0
+2025-09-14 13:02:24: PS Move Service not required... skipping.
+2025-09-14 13:02:24: Xbox controller was found, guid: 00000003-045e-0000-130b-000009057200
+2025-09-14 13:02:24: VR Gamepad was found, guid: 00000003-045e-0000-130b-000009057200
+2025-09-14 13:02:24: Enumeration of devices starting completed with 2 total.
+2025-09-14 13:02:26: Status trace: stopped
+2025-09-14 13:03:44: Start/Stop sequence starting.
+2025-09-14 13:03:44: Start/Stop sequence starting.
+2025-09-14 13:03:44: Creating processing thread... start.
+2025-09-14 13:03:44: Creating processing thread... done.
+2025-09-14 13:03:44: Sending communication to start driver - start.
+2025-09-14 13:03:44: Sending communication to start driver - complete.
+2025-09-14 13:03:44: Start/Stop sequence done.
+2025-09-14 13:03:44: Start/Stop sequence done.
+2025-09-14 13:03:44: Initialize processing thread.
+2025-09-14 13:03:45: Connection status chanced to: Driver4VR is running!
+2025-09-14 13:03:45: Starting all devices...
+2025-09-14 13:03:45: Creating Wii Connection...
+2025-09-14 13:03:45: Creating Wii Connection... completed with success.
+2025-09-14 13:03:45: Starting devices...
+2025-09-14 13:03:45: Starting devices complete
+2025-09-14 13:03:45: Starting all devices... done.
+2025-09-14 13:03:45: Tracker update test start - #1
+2025-09-14 13:03:45: Tracker update test end  - #1
+2025-09-14 13:03:45: Tracker update test start - #2
+2025-09-14 13:03:45: Tracker update test end  - #2
+2025-09-14 13:03:45: Tracker update test start - #3
+2025-09-14 13:03:45: Tracker update test end  - #3
+2025-09-14 13:03:45: Tracker update test start - #4
+2025-09-14 13:03:45: Tracker update test end  - #4
+2025-09-14 13:03:45: Tracker update test start - #5
+2025-09-14 13:03:45: Tracker update test end  - #5
+2025-09-14 13:04:18: Enumeration of devices starting... with 2
+2025-09-14 13:04:18: PS Move Service not required... skipping.
+2025-09-14 13:04:18: Enumeration of devices starting completed with 2 total.
+2025-09-14 13:04:45: Enumeration of devices starting... with 2
+2025-09-14 13:04:45: PS Move Service not required... skipping.
+2025-09-14 13:04:45: Enumeration of devices starting completed with 2 total.
+2025-09-14 13:04:45: Enumeration of devices starting... with 2
+2025-09-14 13:04:45: PS Move Service not required... skipping.
+2025-09-14 13:04:45: Enumeration of devices starting completed with 2 total.
+2025-09-14 13:04:45: Enumeration of devices starting... with 2
+2025-09-14 13:04:45: PS Move Service not required... skipping.
+2025-09-14 13:04:45: Enumeration of devices starting completed with 2 total.
+2025-09-14 13:07:08: Enumeration of devices starting... with 2
+2025-09-14 13:07:08: PS Move Service not required... skipping.
+2025-09-14 13:07:08: Enumeration of devices starting completed with 2 total.
+2025-09-14 13:09:20: PS Move Service starting... restart reqeuested: False
+2025-09-14 13:09:20: PS Move Service starting complete with result: Service_start_success
+2025-09-14 13:09:20: Connection to PS Move Service starting complete with result: True
+2025-09-14 13:09:20: PS Move enumeration beging with already 0 devices.
+2025-09-14 13:09:20: PS Move device was found: 0
+2025-09-14 13:09:20: Starting PS Move device 0
+2025-09-14 13:09:20: Starting PS Move device 0 completed with result: PSMResult_Success
+2025-09-14 13:09:20: PS Move enumeration complete with 1 devices.
+2025-09-14 13:09:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:31: Enumeration of devices starting... with 3
+2025-09-14 13:09:31: PS Move Service not required... skipping.
+2025-09-14 13:09:31: Enumeration of devices starting completed with 3 total.
+2025-09-14 13:09:32: Enumeration of devices starting... with 3
+2025-09-14 13:09:32: PS Move Service not required... skipping.
+2025-09-14 13:09:32: Enumeration of devices starting completed with 3 total.
+2025-09-14 13:09:32: Enumeration of devices starting... with 3
+2025-09-14 13:09:32: PS Move Service not required... skipping.
+2025-09-14 13:09:32: Enumeration of devices starting completed with 3 total.
+2025-09-14 13:09:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:40: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:44: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:45: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:45: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:45: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:45: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:46: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:46: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:46: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:46: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:50: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:09:59: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:04: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:05: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:15: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:16: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:16: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:16: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:16: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:16: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:16: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:17: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:17: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:17: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:20: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:24: Enumeration of devices starting... with 3
+2025-09-14 13:10:24: PS Move Service not required... skipping.
+2025-09-14 13:10:24: Enumeration of devices starting completed with 3 total.
+2025-09-14 13:10:24: Enumeration of devices starting... with 3
+2025-09-14 13:10:24: PS Move Service not required... skipping.
+2025-09-14 13:10:24: Enumeration of devices starting completed with 3 total.
+2025-09-14 13:10:24: Enumeration of devices starting... with 3
+2025-09-14 13:10:24: PS Move Service not required... skipping.
+2025-09-14 13:10:24: Enumeration of devices starting completed with 3 total.
+2025-09-14 13:10:24: Enumeration of devices starting... with 3
+2025-09-14 13:10:24: PS Move Service not required... skipping.
+2025-09-14 13:10:24: Enumeration of devices starting completed with 3 total.
+2025-09-14 13:10:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:31: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:31: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:10:31: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:11: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:11: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:12: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:12: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:14: Start/Stop sequence starting.
+2025-09-14 13:11:14: Start/Stop sequence starting.
+2025-09-14 13:11:14: Start/Stop sequence done.
+2025-09-14 13:11:14: Start/Stop sequence done.
+2025-09-14 13:11:15: Connection status chanced to: Press 'Start Driver4VR'
+2025-09-14 13:11:15: Stopping devices...
+2025-09-14 13:11:15: Stopping devices... done. 
+2025-09-14 13:11:45: Start/Stop sequence starting.
+2025-09-14 13:11:45: Start/Stop sequence starting.
+2025-09-14 13:11:45: Sending communication to start driver - start.
+2025-09-14 13:11:45: Sending communication to start driver - complete.
+2025-09-14 13:11:45: Start/Stop sequence done.
+2025-09-14 13:11:45: Start/Stop sequence done.
+2025-09-14 13:11:46: Connection status chanced to: Driver4VR is running!
+2025-09-14 13:11:46: Starting all devices...
+2025-09-14 13:11:46: Starting devices...
+2025-09-14 13:11:46: Starting PS Move device 0
+2025-09-14 13:11:46: Starting PS Move device 0 completed with result: PSMResult_Success
+2025-09-14 13:11:46: Starting devices complete
+2025-09-14 13:11:46: Starting all devices... done.
+2025-09-14 13:11:47: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:47: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:47: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:47: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:47: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:47: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:48: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:11:57: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:03: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:08: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:08: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:10: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:11: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:12: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:12: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:12: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:13: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:14: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:20: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:20: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:21: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:23: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:23: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:32: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:32: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:42: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:12:43: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:09: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:23: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:23: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:23: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:23: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:32: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:32: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:33: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:35: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:35: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:35: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:35: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:35: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:35: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:35: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:38: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:39: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:41: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:50: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:50: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:50: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:13:50: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:02: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:18: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:19: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:20: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:20: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:20: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:20: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:25: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:26: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:27: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:28: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:29: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:30: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:36: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:15:37: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:53: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:55: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:55: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:55: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:56: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:16:57: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:18:13: Start/Stop sequence starting.
+2025-09-14 13:18:13: Start/Stop sequence starting.
+2025-09-14 13:18:13: Start/Stop sequence done.
+2025-09-14 13:18:13: Start/Stop sequence done.
+2025-09-14 13:18:14: Connection status chanced to: Press 'Start Driver4VR'
+2025-09-14 13:18:14: Stopping devices...
+2025-09-14 13:18:14: Stopping devices... done. 
+2025-09-14 13:18:15: Start/Stop sequence starting.
+2025-09-14 13:18:15: Start/Stop sequence starting.
+2025-09-14 13:18:15: Sending communication to start driver - start.
+2025-09-14 13:18:15: Sending communication to start driver - complete.
+2025-09-14 13:18:15: Start/Stop sequence done.
+2025-09-14 13:18:15: Start/Stop sequence done.
+2025-09-14 13:18:15: Connection status chanced to: Driver4VR is running!
+2025-09-14 13:18:15: Starting all devices...
+2025-09-14 13:18:15: Starting devices...
+2025-09-14 13:18:15: Starting PS Move device 0
+2025-09-14 13:18:15: Starting PS Move device 0 completed with result: PSMResult_Success
+2025-09-14 13:18:15: Starting devices complete
+2025-09-14 13:18:15: Starting all devices... done.
+2025-09-14 13:18:22: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:18:24: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:18:34: Warning: Invalid Quaternion from PSMS
+2025-09-14 13:21:10: Closing application...
+2025-09-14 13:21:10: End processing thread.
+2025-09-14 13:21:10: End communication thread.
+2025-09-14 13:21:10: Closing application... completed.
+2025-09-14 13:21:10: Shutdown of Driver4VR application has been completed.

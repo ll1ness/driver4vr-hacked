@@ -1,0 +1,49 @@
+﻿{
+  "EmulatorSha": "",
+  "ProjectId": "18573605",
+  "BranchName": "master",
+  "JobName": "deploy",
+  "ImageRatio": 1.0,
+  "DefaultConfig": {
+    "UserName": "DefaultName",
+    "Language": "english",
+    "SteamId": null,
+    "UnlockDlcs": true,
+    "EnableOverlay": false,
+    "EnableLan": false,
+    "LogLevel": "off",
+    "SignalingServers": []
+  },
+  "GamesConfig": [
+    {
+      "EmuConfig": {
+        "UserName": "",
+        "Language": "",
+        "SteamId": null,
+        "UnlockDlcs": null,
+        "EnableOverlay": null,
+        "EnableLan": null,
+        "LogLevel": "",
+        "SignalingServers": []
+      },
+      "StartFolder": "C:\\Users\\Admin\\Downloads\\Done\\Driver4VR.8013868\\steamapps\\common\\Driver4VR",
+      "AppName": "Driver4VR",
+      "AppId": 1366950,
+      "Parameters": "",
+      "UseX64": true,
+      "UseVR": false,
+      "UseGlobalSignalingServers": true,
+      "EnvVars": [],
+      "BetaName": "",
+      "SavePath": "",
+      "Languages": [
+        "english"
+      ],
+      "DisableOnlineNetworking": false,
+      "GameGuid": "2aead85c-99e1-45b2-bf63-61134b9810d0",
+      "Dlcs": [],
+      "Depots": [],
+      "FullPath": "C:\\Users\\Admin\\Downloads\\Done\\Driver4VR.8013868\\steamapps\\common\\Driver4VR\\Driver4VR.exe"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+2025-09-14 13:00:33: Starting installer: True, False, False
+2025-09-14 13:00:33: Found SteamVR JSON config folder: C:\Users\majez\AppData\Local\openvr\openvrpaths.vrpath
+2025-09-14 13:00:33: JSON file: {
+	"config" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\config"
+	],
+	"external_drivers" : 
+	[
+		"C:\\CRVR\\app\\lib\\Driver\\vridge",
+		"D:\\SteamLibrary\\steamapps\\common\\iVRy"
+	],
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\logs"
+	],
+	"runtime" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\SteamVR"
+	],
+	"version" : 1
+}
+2025-09-14 13:00:33: Got SteamVR folder from JSON: C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+2025-09-14 13:00:33: Found vrpathreg at : C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrpathreg.exe
+2025-09-14 13:00:33: Register driver (True): >>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrpathreg.exe<<, >> adddriver "C:\Users\majez\Desktop\drv4vr\steamapps\common\Driver4VR\lib\drivers\driver4vr"<<
+2025-09-14 13:00:34: Registration completed with: True
+2025-09-14 13:00:37: Installer complete.
+2025-09-14 13:23:57: Starting installer: False, False, False
+2025-09-14 13:24:00: Found SteamVR JSON config folder: C:\Users\majez\AppData\Local\openvr\openvrpaths.vrpath
+2025-09-14 13:24:00: JSON file: {
+	"config" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\config"
+	],
+	"external_drivers" : 
+	[
+		"C:\\CRVR\\app\\lib\\Driver\\vridge",
+		"D:\\SteamLibrary\\steamapps\\common\\iVRy",
+		"C:\\Users\\majez\\Desktop\\drv4vr\\steamapps\\common\\Driver4VR\\lib\\drivers\\driver4vr"
+	],
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\logs"
+	],
+	"runtime" : 
+	[
+		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\SteamVR"
+	],
+	"version" : 1
+}
+2025-09-14 13:24:00: Got SteamVR folder from JSON: C:\Program Files (x86)\Steam\steamapps\common\SteamVR
+2025-09-14 13:24:00: Found vrpathreg at : C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrpathreg.exe
+2025-09-14 13:24:00: Register driver (False): >>C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrpathreg.exe<<, >> removedriver "C:\Users\majez\Desktop\drv4vr\steamapps\common\Driver4VR\lib\drivers\driver4vr"<<
+2025-09-14 13:24:00: Unregistration completed with: True
+2025-09-14 13:24:07: Installer complete.
+2025-09-14 14:43:07: Starting installer: False, False, False
+2025-09-14 14:43:17: Installer complete.
+2025-09-14 14:43:46: Starting installer: False, False, False
+2025-09-14 14:43:49: Installer complete.
+2025-09-14 14:44:12: Starting installer: False, False, False
+2025-09-14 14:44:12: Installer complete.
